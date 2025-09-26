@@ -1,0 +1,46 @@
+# ====================================
+# Gitignore para Java + Spring Boot
+# ====================================
+
+# Compilação e build
+/target/
+/bin/
+/out/
+
+# Configurações do Eclipse
+.classpath
+.project
+.settings/
+
+# Configurações do IntelliJ IDEA
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Configurações do VS Code
+.vscode/
+
+# Logs e temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dependências (caso tenha frontend junto)
+node_modules/
+dist/
+
+# Maven e Gradle
+.mvn/
+.gradle/
+build/
+
+# Arquivos de ambiente (se usar variáveis locais)
+application-*.yml
+application-*.properties
+.env
