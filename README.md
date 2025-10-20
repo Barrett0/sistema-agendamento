@@ -56,7 +56,7 @@ A aplicação estará disponível em:
 
 🎯 Objetivo
 
-Este projeto foi desenvolvido com o propósito de aprimorar conhecimentos em Java e Spring Boot, além de servir como portfólio para oportunidades profissionais.
+Este projeto foi desenvolvido com o propósito de aprimorar meus conhecimentos em Java e Spring Boot, além de servir como portfólio para oportunidades profissionais.
 
 📖 Autor
 
